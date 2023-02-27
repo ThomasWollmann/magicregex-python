@@ -1,0 +1,16 @@
+*.pyc
+
+*.egg
+!/tests/**/*.egg
+/*.egg-info
+/dist/*
+build
+_build
+.cache
+*.so
+
+.DS_Store
+.idea/*
+.python-version
+.vscode/*
+.venv
