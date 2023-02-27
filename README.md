@@ -6,11 +6,11 @@
 3. Automatically typed capture groups
 4. Natural language syntax
 
-This library was heavily inspired by the [magic-regexp](https://regexp.dev) Javascript module by [Daniel Roe](https://roe.dev/).
+This library is a port of the [magic-regexp](https://regexp.dev) JavaScript module by [Daniel Roe](https://roe.dev/).
 
 ## Quickstart
 
-First, install `magicregex` by
+First, install `magicregex` by (WIP)
 ```shell
 pip install magicregex
 ```
