@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "magicregex"
-version = "0.1.0"
+version = "0.1.1"
 description = "Readable regular expressions in Python"
 authors = ["Thomas Wollmann"]
 readme = "README.md"
