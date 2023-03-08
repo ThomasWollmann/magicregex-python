@@ -2,7 +2,6 @@
 **Readable Regular Expressions for Python**
 
 [![Stable Version](https://img.shields.io/pypi/v/magicregex?label=stable)][PyPI Releases]
-[![Pre-release Version](https://img.shields.io/github/v/release/thomaswollmann/magicregex?label=pre-release&include_prereleases&sort=semver)][PyPI Releases]
 [![Python Versions](https://img.shields.io/pypi/pyversions/magicregex)][PyPI]
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
 [![Downloads](https://img.shields.io/pypi/dm/magicregex)](https://pypistats.org/packages/magicregex)
