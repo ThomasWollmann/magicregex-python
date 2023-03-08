@@ -18,7 +18,14 @@ jobs:
       fail-fast: false
       matrix:
         os: [Ubuntu, macOS, Windows]
-        python-version: ["3.7", "3.8", "3.9", "3.10", "3.11"]
+        python-version: ["3.7", "3.8", "3.9", "3.10", "3.11"]        
+        include:
+          - os: Ubuntu
+            image: ubuntu-22.04
+          - os: Windows
+            image: windows-2022
+          - os: macOS
+            image: macos-12
     defaults:
       run:
         shell: bash
