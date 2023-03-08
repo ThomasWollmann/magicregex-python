@@ -6,7 +6,7 @@ authors = ["Thomas Wollmann"]
 readme = "README.md"
 license = "Apache 2.0"
 
-repository = "https://github.com/thomaswollmann/magicregex"
+repository = "https://github.com/ThomasWollmann/magicregex-python"
 classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules"
 ]
